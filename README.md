@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## My stats
-![stats](https://github-readme-stats.vercel.app/api?username=bbarte&theme=blue-green)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bbarte&theme=blue-green)
-
 ## I use
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
